@@ -1,0 +1,10 @@
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\obj\Debug\zadanie 2.4 wf.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\obj\Debug\zadanie 2.4 wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\obj\Debug\zadanie_2._4_wf.Properties.Resources.resources
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\obj\Debug\zadanie 2.4 wf.csproj.GenerateResource.cache
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\obj\Debug\zadanie 2.4 wf.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\bin\Debug\zadanie 2.4 wf.exe.config
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\bin\Debug\zadanie 2.4 wf.exe
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\bin\Debug\zadanie 2.4 wf.pdb
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\obj\Debug\zadanie 2.4 wf.exe
+C:\Users\space\source\repos\zadanie 2.4 wf\zadanie 2.4 wf\obj\Debug\zadanie 2.4 wf.pdb
