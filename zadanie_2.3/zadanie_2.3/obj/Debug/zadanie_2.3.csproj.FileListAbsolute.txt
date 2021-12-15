@@ -1,0 +1,9 @@
+C:\Users\space\source\repos\zadanie_2.3\zadanie_2.3\obj\Debug\zadanie_2.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\zadanie_2.3\zadanie_2.3\obj\Debug\zadanie_2._3.Properties.Resources.resources
+C:\Users\space\source\repos\zadanie_2.3\zadanie_2.3\obj\Debug\zadanie_2.3.csproj.GenerateResource.cache
+C:\Users\space\source\repos\zadanie_2.3\zadanie_2.3\obj\Debug\zadanie_2.3.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie_2.3\zadanie_2.3\bin\Debug\zadanie_2.3.exe.config
+C:\Users\space\source\repos\zadanie_2.3\zadanie_2.3\bin\Debug\zadanie_2.3.exe
+C:\Users\space\source\repos\zadanie_2.3\zadanie_2.3\bin\Debug\zadanie_2.3.pdb
+C:\Users\space\source\repos\zadanie_2.3\zadanie_2.3\obj\Debug\zadanie_2.3.exe
+C:\Users\space\source\repos\zadanie_2.3\zadanie_2.3\obj\Debug\zadanie_2.3.pdb
