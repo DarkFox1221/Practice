@@ -1,0 +1,15 @@
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\bin\Debug\net6.0\zadanie_4.1_.exe
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\bin\Debug\net6.0\zadanie_4.1_.deps.json
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\bin\Debug\net6.0\zadanie_4.1_.runtimeconfig.json
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\bin\Debug\net6.0\zadanie_4.1_.dll
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\bin\Debug\net6.0\ref\zadanie_4.1_.dll
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\bin\Debug\net6.0\zadanie_4.1_.pdb
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\obj\Debug\net6.0\zadanie_4.1_.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\obj\Debug\net6.0\zadanie_4.1_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\obj\Debug\net6.0\zadanie_4.1_.AssemblyInfoInputs.cache
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\obj\Debug\net6.0\zadanie_4.1_.AssemblyInfo.cs
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\obj\Debug\net6.0\zadanie_4.1_.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\obj\Debug\net6.0\zadanie_4.1_.dll
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\obj\Debug\net6.0\ref\zadanie_4.1_.dll
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\obj\Debug\net6.0\zadanie_4.1_.pdb
+C:\Users\space\source\repos\zadanie_4.1_\zadanie_4.1_\obj\Debug\net6.0\zadanie_4.1_.genruntimeconfig.cache
