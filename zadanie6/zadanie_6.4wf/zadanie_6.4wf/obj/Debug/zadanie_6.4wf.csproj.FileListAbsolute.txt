@@ -1,0 +1,9 @@
+C:\Users\space\source\repos\zadanie_6.4wf\zadanie_6.4wf\obj\Debug\zadanie_6.4wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\zadanie_6.4wf\zadanie_6.4wf\obj\Debug\zadanie_6._4wf.Properties.Resources.resources
+C:\Users\space\source\repos\zadanie_6.4wf\zadanie_6.4wf\obj\Debug\zadanie_6.4wf.csproj.GenerateResource.cache
+C:\Users\space\source\repos\zadanie_6.4wf\zadanie_6.4wf\obj\Debug\zadanie_6.4wf.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie_6.4wf\zadanie_6.4wf\bin\Debug\zadanie_6.4wf.exe.config
+C:\Users\space\source\repos\zadanie_6.4wf\zadanie_6.4wf\bin\Debug\zadanie_6.4wf.exe
+C:\Users\space\source\repos\zadanie_6.4wf\zadanie_6.4wf\bin\Debug\zadanie_6.4wf.pdb
+C:\Users\space\source\repos\zadanie_6.4wf\zadanie_6.4wf\obj\Debug\zadanie_6.4wf.exe
+C:\Users\space\source\repos\zadanie_6.4wf\zadanie_6.4wf\obj\Debug\zadanie_6.4wf.pdb
