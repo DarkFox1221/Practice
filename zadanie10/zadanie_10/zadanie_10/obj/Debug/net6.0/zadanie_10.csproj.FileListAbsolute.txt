@@ -1,0 +1,15 @@
+C:\Users\space\source\repos\zadanie_10\zadanie_10\bin\Debug\net6.0\zadanie_10.exe
+C:\Users\space\source\repos\zadanie_10\zadanie_10\bin\Debug\net6.0\zadanie_10.deps.json
+C:\Users\space\source\repos\zadanie_10\zadanie_10\bin\Debug\net6.0\zadanie_10.runtimeconfig.json
+C:\Users\space\source\repos\zadanie_10\zadanie_10\bin\Debug\net6.0\zadanie_10.dll
+C:\Users\space\source\repos\zadanie_10\zadanie_10\bin\Debug\net6.0\ref\zadanie_10.dll
+C:\Users\space\source\repos\zadanie_10\zadanie_10\bin\Debug\net6.0\zadanie_10.pdb
+C:\Users\space\source\repos\zadanie_10\zadanie_10\obj\Debug\net6.0\zadanie_10.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\zadanie_10\zadanie_10\obj\Debug\net6.0\zadanie_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\space\source\repos\zadanie_10\zadanie_10\obj\Debug\net6.0\zadanie_10.AssemblyInfoInputs.cache
+C:\Users\space\source\repos\zadanie_10\zadanie_10\obj\Debug\net6.0\zadanie_10.AssemblyInfo.cs
+C:\Users\space\source\repos\zadanie_10\zadanie_10\obj\Debug\net6.0\zadanie_10.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie_10\zadanie_10\obj\Debug\net6.0\zadanie_10.dll
+C:\Users\space\source\repos\zadanie_10\zadanie_10\obj\Debug\net6.0\ref\zadanie_10.dll
+C:\Users\space\source\repos\zadanie_10\zadanie_10\obj\Debug\net6.0\zadanie_10.pdb
+C:\Users\space\source\repos\zadanie_10\zadanie_10\obj\Debug\net6.0\zadanie_10.genruntimeconfig.cache

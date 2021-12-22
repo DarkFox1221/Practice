@@ -1,0 +1,10 @@
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\obj\Debug\zadanie_10wf.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\obj\Debug\zadanie_10wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\obj\Debug\zadanie_10wf.Properties.Resources.resources
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\obj\Debug\zadanie_10wf.csproj.GenerateResource.cache
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\obj\Debug\zadanie_10wf.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\bin\Debug\zadanie_10wf.exe.config
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\bin\Debug\zadanie_10wf.exe
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\bin\Debug\zadanie_10wf.pdb
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\obj\Debug\zadanie_10wf.exe
+C:\Users\space\source\repos\zadanie_10wf\zadanie_10wf\obj\Debug\zadanie_10wf.pdb
