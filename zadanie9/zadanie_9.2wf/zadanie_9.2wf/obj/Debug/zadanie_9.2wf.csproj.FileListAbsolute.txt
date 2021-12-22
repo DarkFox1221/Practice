@@ -1,0 +1,10 @@
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\obj\Debug\zadanie_9.2wf.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\obj\Debug\zadanie_9.2wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\obj\Debug\zadanie_9._2wf.Properties.Resources.resources
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\obj\Debug\zadanie_9.2wf.csproj.GenerateResource.cache
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\obj\Debug\zadanie_9.2wf.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\bin\Debug\zadanie_9.2wf.exe.config
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\bin\Debug\zadanie_9.2wf.exe
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\bin\Debug\zadanie_9.2wf.pdb
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\obj\Debug\zadanie_9.2wf.exe
+C:\Users\space\source\repos\zadanie_9.2wf\zadanie_9.2wf\obj\Debug\zadanie_9.2wf.pdb
