@@ -1,0 +1,10 @@
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\obj\Debug\zadanie 3.3.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\obj\Debug\zadanie 3.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\obj\Debug\zadanie_3._3.Properties.Resources.resources
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\obj\Debug\zadanie 3.3.csproj.GenerateResource.cache
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\obj\Debug\zadanie 3.3.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\bin\Debug\zadanie 3.3.exe.config
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\bin\Debug\zadanie 3.3.exe
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\bin\Debug\zadanie 3.3.pdb
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\obj\Debug\zadanie 3.3.exe
+C:\Users\space\source\repos\zadanie 3.3\zadanie 3.3\obj\Debug\zadanie 3.3.pdb
