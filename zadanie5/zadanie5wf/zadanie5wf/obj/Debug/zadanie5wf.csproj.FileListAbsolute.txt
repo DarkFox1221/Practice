@@ -1,0 +1,10 @@
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\obj\Debug\zadanie5wf.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\obj\Debug\zadanie5wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\obj\Debug\zadanie5wf.Properties.Resources.resources
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\obj\Debug\zadanie5wf.csproj.GenerateResource.cache
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\obj\Debug\zadanie5wf.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\bin\Debug\zadanie5wf.exe.config
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\bin\Debug\zadanie5wf.exe
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\bin\Debug\zadanie5wf.pdb
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\obj\Debug\zadanie5wf.exe
+C:\Users\space\source\repos\zadanie5wf\zadanie5wf\obj\Debug\zadanie5wf.pdb
