@@ -1,0 +1,10 @@
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\obj\Debug\zadanie_7.1wf.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\obj\Debug\zadanie_7.1wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\obj\Debug\zadanie_7._1wf.Properties.Resources.resources
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\obj\Debug\zadanie_7.1wf.csproj.GenerateResource.cache
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\obj\Debug\zadanie_7.1wf.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\bin\Debug\zadanie_7.1wf.exe.config
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\bin\Debug\zadanie_7.1wf.exe
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\bin\Debug\zadanie_7.1wf.pdb
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\obj\Debug\zadanie_7.1wf.exe
+C:\Users\space\source\repos\zadanie_7.1wf\zadanie_7.1wf\obj\Debug\zadanie_7.1wf.pdb
