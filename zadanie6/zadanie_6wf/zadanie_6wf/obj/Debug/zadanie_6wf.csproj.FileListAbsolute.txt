@@ -1,0 +1,10 @@
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\obj\Debug\zadanie_6wf.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\obj\Debug\zadanie_6wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\obj\Debug\zadanie_6wf.Properties.Resources.resources
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\obj\Debug\zadanie_6wf.csproj.GenerateResource.cache
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\obj\Debug\zadanie_6wf.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\bin\Debug\zadanie_6wf.exe.config
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\bin\Debug\zadanie_6wf.exe
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\bin\Debug\zadanie_6wf.pdb
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\obj\Debug\zadanie_6wf.exe
+C:\Users\space\source\repos\zadanie_6wf\zadanie_6wf\obj\Debug\zadanie_6wf.pdb
